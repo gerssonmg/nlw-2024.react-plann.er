@@ -31,7 +31,7 @@ export function App() {
             <div className="flex items-center gap-2">
               <Calendar className="size-5 text-zinc-400" />
               <input
-                type="text"
+                type="date"
                 placeholder="Quando?"
                 className="bg-transparent text-lg placeholder-zinc-400 w-40 outline-none"
               />
